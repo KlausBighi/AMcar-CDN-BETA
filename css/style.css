@@ -1,3 +1,17 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+.subTitulos {
+    font-size: 150%;
+}
+
 .navbarSite {
     background-image: linear-gradient(yellow, white);
 }
